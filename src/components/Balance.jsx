@@ -4,7 +4,7 @@ function Balance() {
   return (
     <>
       <div>Balance</div>
-      <div>$0:00</div>
+      <div>$0.00</div>
     </>
 
   )
